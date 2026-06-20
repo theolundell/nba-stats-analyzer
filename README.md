@@ -1,6 +1,22 @@
 # NBA Stats Analyzer
 A Python data analysis project built using pandas and matplotlib.
 
+## How to Run
+
+1. Install required packages:
+
+```bash
+pip install pandas matplotlib
+```
+
+2. Download the repository.
+
+3. Run:
+
+```bash
+python analyzer.py
+```
+
 ## Features
 - View the top 5 NBA teams by wins
 - Compare Eastern and Western Conference scoring averages
